@@ -28,3 +28,6 @@ compiled (fordítós) languages:
 # 1.2.4
 - Microsoft / VSCode
 - JetBrains / WebStorm
+
+# 1.2.5 Interpreter
+- Böngésző
